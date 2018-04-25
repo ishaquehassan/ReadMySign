@@ -1,0 +1,4 @@
+#Thu Apr 26 00:58:25 PKT 2018
+base.0=/Users/ishaqhassan/Downloads/FinalProject_D3TI_UNS2/finalProject_D3TI_UNS/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex
